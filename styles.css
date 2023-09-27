@@ -1,0 +1,16 @@
+* {
+    font-family: "Hack Nerd Font", sans-serif;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: aqua;
+}
+
+.home-img {
+    height: auto;
+    width: 800px;
+}
